@@ -1,0 +1,13 @@
+[
+ {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+]
