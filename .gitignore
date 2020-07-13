@@ -1,3 +1,4 @@
 #Ignore node module
 */node_modules
 */node_modules/*
+modulo-4/node-farm/node_modules/*
